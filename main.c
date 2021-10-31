@@ -6,7 +6,7 @@
 
 /* Conway's Game of Life On C 
  * It uses Sleep() from windows.h and system("cls") in the main function
- * So It smoothly works on the Windows, but errors can appear on other OC)
+ * So It smoothly works on the Windows, but errors can appear on other OS)
  */
 
 void copy_table(int table[][LENGTH], int temp_table[][LENGTH])
