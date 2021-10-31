@@ -1,4 +1,2 @@
-# GameOfLifeOnC
-Conway's Game of Life 
-Realisation On C
-(Since it uses Sleep() from windows.h and system("cls"), the code works on Windows OC)
+<h1 align = "center"> Conway's Game Of Life </h1>
+---
