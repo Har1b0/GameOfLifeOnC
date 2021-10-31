@@ -102,7 +102,6 @@ int main(void)
 	{
 		print_table(table);
 		make_step(table, temp_table);
-		copy_table(table, temp_table);
 		Sleep(1000);
 		system("cls");
 	}
